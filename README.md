@@ -20,7 +20,8 @@ Author: Chang Qiao<sup>1,2,#</sup>, Di Li<sup>3,#</sup>, Yong Liu<sup>3,#</sup>,
 - [Environment](#environment)
 - [File structure](#file-structure)
 - [Train your own models](#train-your-own-models)
-- [Test pre-trained models](#test-pre-trained-models)
+- [Test pre-trained rDL SIM models](#test pre-trained rDL SIM models)
+- [Inferece with TiS/SiS-rDL models](#inferece with TiS/SiS-rDL models)
 - [License](#license)
 - [Citation](#citation)
 

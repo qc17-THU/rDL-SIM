@@ -1,6 +1,6 @@
 # Rationalized Deep Learning (rDL) for Microscopy Image Denoising 
 
-**rDL denoising software** is a Tensorflow implementation of rationalized deep learning (rDL) based image denoising for microscopy images, e.g., structured illumination microscopy images and lattice light-sheet microscopy images. This repository is developed based on 2022 **Nature Biotechnology** paper *Rationalized deep neural network for sustained super-resolution live imaging of rapid subcellular processes*.<br>
+**rDL denoising software** is a Tensorflow implementation of rationalized deep learning (rDL) based image denoising for microscopy images, e.g., structured illumination microscopy images and lattice light-sheet microscopy images. This repository is developed based on 2022 **Nature Biotechnology** paper *Rationalized deep neural network for sustained super-resolution live imaging of rapid subcellular processes* (DOI:10.1038/s41587-022-01471-3).<br>
 
 Author: Chang Qiao<sup>1,2,#</sup>, Di Li<sup>3,#</sup>, Yong Liu<sup>3,#</sup>, Siwei Zhang<sup>3,4,#</sup>, Kan Liu<sup>1</sup>, Chong Liu<sup>3,4</sup>, Yuting Guo<sup>3</sup>, Tao Jiang<sup>3,4</sup>, Chuyu Fang<sup>5</sup>, Nan Li<sup>6</sup>, Yunmin Zeng<sup>1</sup>, Kangmin He<sup>6,7</sup>, Xueliang Zhu<sup>5</sup>, Jennifer Lippincott-Schwartz<sup>8,+</sup>, Qionghai Dai<sup>1,2,9,10,+</sup>, Dong Li<sup>3,4,+</sup><br>
 <sup>1</sup>Department of Automation, Tsinghua University, Beijing, China<br>
@@ -79,7 +79,7 @@ This repository is released under the MIT License (refer to the LICENSE file for
 ## Citation
 If you find the code or our dataset helpful in your resarch, please cite the following paper:
 ```
-@article{qiao2021evaluation,
+@article{qiao2022Rationalized,
   title={Rationalized deep neural network for sustained super-resolution live imaging of rapid subcellular processes},       
   author={Chang Qiao, Di Li, Yong Liu, Siwei Zhang, Kan Liu, Chong Liu, Yuting Guo, Tao Jiang, Chuyu Fang, Nan Li, Yunmin Zeng, Kangmin He, Xueliang Zhu, Jennifer Lippincott-Schwartz, Qionghai Dai, Dong Li},
   journal={Nature Biotechnology},

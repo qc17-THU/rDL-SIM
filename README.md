@@ -21,7 +21,7 @@ Author: Chang Qiao<sup>1,2,#</sup>, Di Li<sup>3,#</sup>, Yong Liu<sup>3,#</sup>,
 - [File structure](#file-structure)
 - [Train your own models](#train-your-own-models)
 - [Test pre-trained rDL SIM models](#test-pre-trained-rDL-SIM-models)
-- [Inferece with TiS/SiS-rDL models](#inferece-with-TiS/SiS-rDL-models)
+- [Inference with TiS/SiS-rDL models](#inference-with-TiS/SiS-rDL-models)
 - [License](#license)
 - [Citation](#citation)
 
@@ -68,7 +68,7 @@ Author: Chang Qiao<sup>1,2,#</sup>, Di Li<sup>3,#</sup>, Yong Liu<sup>3,#</sup>,
 - Typical results:<br>
 <p align="center"><img width="800" src="./figures/fig.jpg"></p>
 
-## Inferece with TiS/SiS-rDL models
+## Inference with TiS/SiS-rDL models
 - Open your terminal and cd to `./src`
 - Run `bash demo_predict_TiS_SiS.sh` in your terminal. Note that before running the bash file, you should check if the data paths and other arguments in `demo_predict_TiS_SiS.sh` are set correctly, and if the trained models and testing data have been placed in the correct folders
 - The output denoised images will be saved in the same root path of the testing data
